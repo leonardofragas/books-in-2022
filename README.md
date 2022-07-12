@@ -35,3 +35,5 @@ React Explained Clearly, Oluwatobi Sofela
 Scrum e Métodos Ágeis: Um Guia Prático, Luiz Duarte
 
 Agile Project Management, Andy Vickler
+
+GIT (revisado e ampliado): 201 Perguntas e Respostas de Especialistas, R. B. Evaluations
