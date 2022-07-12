@@ -6,34 +6,34 @@ Most of the titles are in portuguese because I'm brazilian.
 
 ---
 
-O Papa dos Milagres: João Paulo II, Andreas Englisch
+1. O Papa dos Milagres: João Paulo II, Andreas Englisch
 
-100 Conselhos de Padre Pio, Paulo Franklin
+2. 100 Conselhos de Padre Pio, Paulo Franklin
 
-Édipo Rei, Sófocles
+3. Édipo Rei, Sófocles
 
-A República, Platão
+4. A República, Platão
 
-Fédon, Platão
+5. Fédon, Platão
 
-Terapia das doenças espirituais, Padre Paulo Ricardo
+6. Terapia das doenças espirituais, Padre Paulo Ricardo
 
-O Estado Judeu, Theodor Herzl
+7. O Estado Judeu, Theodor Herzl
 
-A humildade, Monsenhor Ascânio Brandão
+8. A humildade, Monsenhor Ascânio Brandão
 
-A Bíblia Comentada, Stenio Carneiro
+9. A Bíblia Comentada, Stenio Carneiro
 
-14 hábitos de desenvolvedores altamente produtivos, Zeno Rocha
+10. 14 hábitos de desenvolvedores altamente produtivos, Zeno Rocha
 
-Practical Nest.js: develop clean MVC web applications, Daniel Correa
+11. Practical Nest.js: develop clean MVC web applications, Daniel Correa
 
-REST APIs: learn by coding, Scott Hughes
+12. REST APIs: learn by coding, Scott Hughes
 
-React Explained Clearly, Oluwatobi Sofela
+13. React Explained Clearly, Oluwatobi Sofela
 
-Scrum e Métodos Ágeis: Um Guia Prático, Luiz Duarte
+14. Scrum e Métodos Ágeis: Um Guia Prático, Luiz Duarte
 
-Agile Project Management, Andy Vickler
+15. Agile Project Management, Andy Vickler
 
-GIT (revisado e ampliado): 201 Perguntas e Respostas de Especialistas, R. B. Evaluations
+16. GIT (revisado e ampliado): 201 Perguntas e Respostas de Especialistas, R. B. Evaluations
