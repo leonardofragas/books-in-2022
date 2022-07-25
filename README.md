@@ -1,8 +1,4 @@
-# books-in-2022
-
-A list of books that I read (100%) this year.
-
-Most of the titles are in portuguese because I'm brazilian.
+# read in 2022
 
 ---
 
@@ -23,8 +19,12 @@ Most of the titles are in portuguese because I'm brazilian.
 15. ✅ Agile Project Management, Andy Vickler
 16. ✅ GIT (revisado e ampliado): 201 Perguntas e Respostas de Especialistas, R. B. Evaluations
 17. ✅ Startupês: aprenda a falar a língua das startups, Leonardo Brasil
+18. ✅ Marx para Principiantes, Lejeune Mirhan
 
 # wishlist
 
 1. ✔️ A cauda longa, Chris Anderson
 2. ✔️ Confissões de um publicitário, David Ogilvy
+3. ✔️ OKR: o guia definitivo, Elias Daher
+4. ✔️ Tratamento de dados com Phyton + Pandas, Fernando Feltrin
+5. ✔️ Como escrever um roteiro de cinema, Lady Betwixt
